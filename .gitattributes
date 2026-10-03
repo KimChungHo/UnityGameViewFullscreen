@@ -1,0 +1,7 @@
+* text=auto
+*.cs text eol=crlf
+*.asmdef text
+*.json text
+*.md text
+*.meta text
+*.unitypackage -text
