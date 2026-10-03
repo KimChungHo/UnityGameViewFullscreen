@@ -1,0 +1,6 @@
+key	ko	en	description
+fullscreen.menu.toggle	테스트 도구/게임 화면 전체화면 전환	Test Tools/Toggle Game View Fullscreen	플레이 중 전체화면 전환 메뉴 경로이며 MenuItem 상수와 일치해야 합니다
+fullscreen.no_game_view	기본 에디터 창에 Game 탭을 열어 주세요.	Open a Game tab in the main Editor window.	전체화면에 사용할 기존 게임 뷰가 없는 경우 안내
+fullscreen.unsupported	현재 Unity 버전에서 게임 뷰 전체화면 API를 찾을 수 없습니다.	The Game View fullscreen API is unavailable in this Unity version.	유니티 내부 API 호환성 오류 안내
+fullscreen.failed	게임 화면 전체화면 전환에 실패했습니다: {0}	Failed to change Game View fullscreen: {0}	전체화면 전환 또는 원상 복원 실패 안내
+fullscreen.alignment_failed	게임 뷰를 모니터 크기에 맞추지 못하여 기본 화면으로 복원했습니다.	The Game View could not fit the monitor and was restored.	레이아웃 정렬 재시도가 실패한 경우 안내

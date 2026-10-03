@@ -1,0 +1,7 @@
+{
+  "memo": "Windows 유니티 에디터 게임 뷰 전체화면 설정입니다. toggleVirtualKey의 123은 F12이며 레이아웃 갱신을 기다린 뒤 모니터에 맞춥니다.",
+  "toggleVirtualKey": 123,
+  "layoutWaitUpdates": 2,
+  "maximumAlignmentAttempts": 4,
+  "pixelTolerance": 2
+}
